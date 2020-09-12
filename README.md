@@ -13,25 +13,25 @@ Projeto web services com Spring Boot e JPA / Hibernate. <br/>
 - Tratamento de exceções 
 - Deploy da aplicação no Heroku
 ```
+<br/>
 
-
-## 🖼 Screenshot
+## 🖼 Screenshot das telas da aplicação 
 
 ## Diagrama de Classe
 
-    	<img alt="Diagrama de Classe" src="./assets/diagrama.png">
-    	<br/>
-	
- 
- ## Endpoints  
+	<h1 align="center">
+	    <img src="./assets/diagrama.png">
+	</h1>
 
-    	<img alt="Endpoint de lista de Usuarios" title="Lista De Usuario" src="./assets/users.png">
-	<br/>
-    
-  
-    	<img alt="Endpoint de lista de produtos" title="Lista De Produto" src="./assets/products.png">
-    <br/>
+## Endpoints
+	<h1 align="center">
+	    <img src="./assets/users.png">
+	</h1>
 
+
+	<h1 align="center">
+	   <img src="./assets/products.png">
+	</h1>
 
 ## 🛠 Tecnologias
 
