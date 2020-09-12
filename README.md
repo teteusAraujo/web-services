@@ -3,6 +3,7 @@
 Projeto web services com Spring Boot e JPA / Hibernate. <br/>
 
 ### :memo: Objetivo: 
+```bash
 - Criar projeto Spring Boot Java
 - Implementar modelo de domínio
 - Estruturar camadas lógicas: resource, service, repository
@@ -11,28 +12,31 @@ Projeto web services com Spring Boot e JPA / Hibernate. <br/>
 - CRUD - Create, Retrieve, Update, Delete
 - Tratamento de exceções 
 - Deploy da aplicação no Heroku
+```
+
 
 ## 🖼 Screenshot
 
 ## Diagrama de Classe
-	<h1 align="center">
-    	<img alt="Diagrama de Classe" title="DiagramaDeClasse" src="./assets/diagrama.png"/>
-    </h1>
+
+    	<img alt="Diagrama de Classe" src="./assets/diagrama.png">
+    	<br/>
+	
  
  ## Endpoints  
-    <h1 align="center">
-    	<img alt="Endpoint de lista de Usuarios" title="Lista De Usuario" src="./assets/users.png"/>
-    </h1>
+
+    	<img alt="Endpoint de lista de Usuarios" title="Lista De Usuario" src="./assets/users.png">
+	<br/>
     
-    <h1 align="center">
-    	<img alt="Endpoint de lista de produtos" title="Lista De Produto" src="./assets/products.png"/>
-    </h1>
+  
+    	<img alt="Endpoint de lista de produtos" title="Lista De Produto" src="./assets/products.png">
+    <br/>
 
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-```bash
+
  
 -   **[Java](https://www.java.com/pt_BR/)**
 -   **[SpringBoot](https://spring.io/)**
@@ -40,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[BancoDeDadosH2](https://www.h2database.com/html/main.html)**
 -   **[GitBash](https://gitforwindows.org/)**
 -   **[Postman](https://www.postman.com/)**
-```
+
 <br/>
 
 
@@ -49,12 +53,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 # Clonar o repositório
 git clone https://github.com/teteusAraujo/web-services
 
-# Entrar no diretório
+# Exportar projeto para sua IDE
 
 # Baixar as dependências
 
 
-# Executar o servidor
+# Executar o programa
 
 ```
 
